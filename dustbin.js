@@ -29,7 +29,7 @@ class dustbin{
 
         push()
         translate(posleft.x,posleft.y);
-        rectMode(CENTER)
+        
         angleMode(RADIANS)
         fill(255)
         stroke(255)
@@ -39,7 +39,7 @@ class dustbin{
 
      push()
      translate(posright.x,posright.y);
-     rectMode(CENTER)
+    
      angleMode(RADIANS)
      fill(255)
      stroke(255)
@@ -49,7 +49,7 @@ class dustbin{
 
      push()
      translate(posBottom.x,posBottom.y);
-     rectMode(CENTER)
+     
      stroke(255)
      angleMode(RADIANS)
      fill(255)
